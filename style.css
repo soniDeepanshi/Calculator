@@ -109,3 +109,7 @@ td {
 .clearButton{
     background: red;
 }
+
+footer p i{
+  color: red;
+}
